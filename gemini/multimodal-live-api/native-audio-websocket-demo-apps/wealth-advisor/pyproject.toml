@@ -13,11 +13,11 @@ dependencies = [
     "starlette==0.46.2",
     "uvicorn==0.34.2",
     "websockets==15.0.1",
-    "python-multipart==0.0.20",
+    "python-multipart==0.0.22",
     "httpx==0.28.1",
     # Google Cloud & AI
     "google-auth==2.40.0",
-    "google-cloud-aiplatform==1.104.0",
+    "google-cloud-aiplatform==1.133.0",
     "google-cloud-discoveryengine==0.13.9",
     "google-cloud-firestore==2.20.2",
     "google-cloud-logging==3.12.1",
