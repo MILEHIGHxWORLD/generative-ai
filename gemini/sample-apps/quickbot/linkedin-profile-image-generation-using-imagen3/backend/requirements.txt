@@ -14,7 +14,7 @@ opencv-python
 pillow==12.1.1
 numpy==2.2.4
 
-google-cloud-aiplatform==1.140.0
+google-cloud-aiplatform==1.141.0
 google-cloud-bigquery==3.26.0
 google-cloud-tasks==2.16.5
 google-cloud-logging==3.11.2
